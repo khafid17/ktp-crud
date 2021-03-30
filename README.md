@@ -1,3 +1,13 @@
+<h2>Projrct Crud Ktp</h2>
+
+<p align="justify">
+sistem di adatas adalah sebuah projek crud KTP yang di mana berisi 4200 data dummy, sistem ini juga dapat menampilkan detail data dan juga dapat, terdapat level user di dalamnya dimana penggunanya adalah admin dan user, dimana admin dapat mengakses data seluruh komponen di dalamnya seperti crud ktp serta show, import serta export csv dan pdf sedangkan user hanya memiliki fitur untuk export saja untuh loginnya 
+</p>
+<p>
+admin@admin.com password : admin12345 </br>
+user@user.com password : user12345 </br>
+projek ini di lengkapi dengan api ktp juga dapat bisa akses di  http://127.0.0.1:8000/api/ktp
+</p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
